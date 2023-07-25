@@ -15,8 +15,6 @@ def new_list(alphabets):
 new_list(random_stuff)
 print(alphabetic_strings)
 
-#OR
-
 random_stuff = ['London', '15000', '345.678', '445', 'Riyadh', 'Madinah']
 def new_list(words):
     return[value for value in words if value.isalpha()]
