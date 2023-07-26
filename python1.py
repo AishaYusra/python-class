@@ -4,6 +4,7 @@ print('The number of people in this list are', number_of_names)
 fname = []
 lname = []
 
+
 def new_list(fnames):
     for i in name_list:
         fname.append(i.split(' ')[0])
