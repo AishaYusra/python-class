@@ -1,0 +1,24 @@
+--Student Information--
+ Name: Aisha
+ Age: 19
+ Grade: A
+--Student Information--
+ Name: Alex
+ Age: 56
+ Grade: B
+--Student Information--
+ Name: Bilkisu
+ Age: 23
+ Grade: A
+--Student Information--
+ Name: Aisha
+ Age: 34
+ Grade: e
+--Student Information--
+ Name: Yusrah
+ Age: 67
+ Grade: d
+--Student Information--
+ Name: deborah
+ Age: 32
+ Grade: v
