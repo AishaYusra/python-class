@@ -58,11 +58,6 @@ while True:
             records.add_students(name, int(age), grade)
             another = input('Would you like to add another Student Record? Yes/No: ')
     
-        # if another == 'Yes':
-        #     name = input('Enter Student Name: ')
-        #     age = input('Enter Student Age: ')
-        #     grade = input('Enter Student Grade: ')
-        #     records.add_students(name, int(age), grade)
             
     elif option == '2':
         records.display_all_students()
